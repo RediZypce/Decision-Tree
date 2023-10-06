@@ -1,6 +1,8 @@
 # Flags Dataset Analysis and Decision Tree Classification
 
 This project involves the analysis of a dataset containing information about flags of various countries. The dataset includes attributes such as flag colors, geographic data, and more. A decision tree classification model is trained to categorize countries based on their attributes. [Check it out!](Decision_Tree.ipynb)
+![image](https://github.com/RediZypce/Decision/assets/109640560/077855d8-30fc-403c-9911-53b16478158e)
+
 
 # This project encompasses the following key components:
 
@@ -35,13 +37,11 @@ The decision tree classification section involves training a machine learning mo
 * Insightful Visualizations
 Several visualizations are included in the project to enhance the understanding of the dataset and model results. These visualizations provide valuable insights into flag colors, population vs. area, and religious distribution among other aspects.
 
-# Prerequisites
-Python 3.x
-Jupyter Notebook
-Usage
 
 # Contributing
+
 Contributions are welcome! If you have suggestions, enhancements, or bug fixes, please open an issue or submit a pull request.
+
 
 # Contact
 [X](https://twitter.com/RediZypce)
